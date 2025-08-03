@@ -75,6 +75,13 @@ This project introduces students to:
 This project is licensed under the MIT License.  
 The included MobileNetSSD model is based on work by Chuanqi Wu (BSD 2-Clause License).
 
+## Credits & Model License
+
+This project includes the MobileNetSSD model, originally published by Chuanqi Wu:
+- https://github.com/chuanqi305/MobileNet-SSD
+
+The model is licensed under the BSD 2-Clause License (see `model/LICENSE`).
+
 ## Attribution
 
 Project developed by Firdaus Aris (2025).  
